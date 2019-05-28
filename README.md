@@ -56,4 +56,6 @@ Pinocchio Pizza is a food-take-out-ordering application that serves both: the cu
 - Node SASS Middleware 0.9.x or above
 - pg 6.0.2 or above
 - Twilio 3.31.x or above
+
+## Dev Dependencies
 - Nodemon 1.9.x or above
